@@ -6,4 +6,4 @@ Para criar a calculadora, eu segui o passo a passo do artigo dos <a href="https:
 
 ## Resultado Final
 
-![Calculadora](https://github.com/micheleascoli/calculadora/calculadora-resultado.png)
+![Calculadora](https://github.com/micheleascoli/calculadora/blob/main/calculadora-resultado.png)
